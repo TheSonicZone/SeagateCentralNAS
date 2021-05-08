@@ -1,5 +1,5 @@
 # SeagateCentralNAS
-##Code to for the SEAGATE CENTRAL REBUILD project
+## Code to for the SEAGATE CENTRAL REBUILD project
 
 This code consists of two components
 a) The Python application used to manage the LED
