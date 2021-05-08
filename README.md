@@ -5,6 +5,7 @@ This code consists of two components
 
 
 a) The Python application used to manage the LED
+
 b) The Web pages and ancillary items used to implement the Web UI
 
 ### ledtest.py
